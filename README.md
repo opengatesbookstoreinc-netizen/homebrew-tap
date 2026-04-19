@@ -1,4 +1,4 @@
-# Atlassian Plugin SDK Homebrew Tap
+# Atlassian Plugin SDK Homebrew Taphttps://developer.atlassian.com/server/framework/atlassian-sdk/downloads/#homebrew--os-x-https://developer.atlassian.com/server/framework/atlassian-sdk/downloads/#homebrew--os-x-https://developer.atlassian.com/server/framework/atlassian-sdk/downloads/#homebrew--os-x-https://developer.atlassian.com/server/framework/atlassian-sdk/downloads/#homebrew--os-x-
 
 This repository contains a collection of [Homebrew](http://mxcl.github.com/homebrew/) (aka, Brew) "formulae" for Atlassian. Brew is a simple package manager for OS X that's based on Git.
 
